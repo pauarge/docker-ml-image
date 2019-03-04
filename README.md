@@ -1,4 +1,4 @@
-# Docker image for ML
+# Docker image for Machine Learning
 
 This is a simple Docker image for running Jupyter Notebooks in any platform to do ML-related tasks in Python. It is an Ubuntu-based image with Python 3 installed and the usual suspects: tensorflow, keras, numpy, scipy, etc.
 
