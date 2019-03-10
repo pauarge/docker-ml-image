@@ -7,8 +7,8 @@ You need Docker installed on your machine. You can download it [here](https://ww
 ## Bulding
 
 ```bash
-git clone https://github.com/pauarge/ml.git
-cd ml
+git clone https://github.com/pauarge/docker-ml-image.git
+cd docker-ml-image
 docker build -t ml .
 ```
 
